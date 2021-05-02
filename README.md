@@ -31,14 +31,17 @@ The webpage filters the table correctly based on user input.
 
 # Results with detail analysis:
 There is a description of how to perform a search with images.
-UFO Sightings data can be filtered or search by entering any of the following options; Date, City, State, Country, or Shape. Below you can find a picture of the fields to find UFO Sighting. 
+UFO Sightings data can be filtered or search by entering any of the following options; Date, City, State, Country, or Shape. Below you can find a picture of the fields to find UFO Sighting. The page is clean and user friendly allow users to find where, when, shape and how long UFO sighthing are happening.  
 
 ![](Resources/filters.PNG)
 
 # Summary:
 The summary addresses one drawback of this webpage 
 The summary addresses two additional recommendations for further development 
+
 It feels great to have an understanding of how to develop websites. I have learned the essential components to build a clean and user-friendly website. Although it allows the user to filter through different sightings in the data set using search bars, one drawback of the search bar is to validate where UFO sighing happened. We can add a newsfeed bar with the most recent UFO sighting to guide the user to find the data. 
 If we had how many people were at the siting would be a helpful element to validating the claims. Having as much data as possible for the website would make it as good as it can be. 
+
 My two recommendations to improve the website would be to add data validation and pictures of the UFO sighting. I would add a user newsfeed for a user to interact with the page to add their comments and photos of their most recent encounter of UFO sighing. It will help validate and drive more traffic to the page. 
 
+![](Resources/UFOBanner.PNG)
